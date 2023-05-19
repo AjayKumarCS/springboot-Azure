@@ -13,7 +13,6 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<name>springbootAzureproject</name>
 	<description>Project for mircosoft azure </description>
-	<packaging>war</packaging>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
